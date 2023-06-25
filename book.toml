@@ -1,0 +1,6 @@
+[book]
+authors = ["ysykzheng"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Relentless Pursuit of Performance: Using Cycles to Achieve Consistent Improvement"
