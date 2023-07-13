@@ -1,4 +1,4 @@
-Chapter 8: Building a Culture of Performance Improvement: Role of Culture in Achieving Consistent Performance Improvement
+Role of Culture in Achieving Consistent Performance Improvement
 =========================================================================================================================
 
 Culture plays a critical role in achieving consistent performance improvement. A culture that values continuous improvement fosters an environment where employees are committed to achieving their goals and are held accountable for their work. In this chapter, we will discuss the role of culture in achieving consistent performance improvement.

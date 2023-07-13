@@ -1,4 +1,4 @@
-Chapter 4: Setting Performance Goals: Strategies for Setting Achievable Goals Based on Performance Metrics
+Strategies for Setting Achievable Goals Based on Performance Metrics
 ==========================================================================================================
 
 Setting achievable goals based on performance metrics is essential to achieving consistent improvement. In this chapter, we will discuss strategies for setting achievable goals that are based on performance metrics.

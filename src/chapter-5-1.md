@@ -1,4 +1,4 @@
-Chapter 5: Developing Improvement Plans: Importance of Developing Improvement Plans to Achieve Performance Goals
+Importance of Developing Improvement Plans to Achieve Performance Goals
 ================================================================================================================
 
 Developing improvement plans is essential to achieving consistent improvement. In this chapter, we will discuss the importance of developing improvement plans and provide strategies for doing so effectively.

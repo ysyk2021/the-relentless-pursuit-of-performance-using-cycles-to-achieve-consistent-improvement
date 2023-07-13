@@ -1,4 +1,4 @@
-Chapter 3: Identifying Performance Metrics: Tips for Using Data Analysis and Other Tools to Identify Areas for Improvement
+Tips for Using Data Analysis and Other Tools to Identify Areas for Improvement
 ==========================================================================================================================
 
 Identifying performance metrics is essential to achieving consistent improvement. In this chapter, we will discuss tips for using data analysis and other tools to identify areas for improvement.

@@ -1,4 +1,4 @@
-Chapter 2: Understanding the Power of Cycles: Techniques for Understanding the Concept of Cycles in Performance Improvement
+Techniques for Understanding the Concept of Cycles in Performance Improvement
 ===========================================================================================================================
 
 Understanding the concept of cycles is essential to achieving consistent improvement. In this chapter, we will discuss techniques for understanding the power of cycles in performance improvement.

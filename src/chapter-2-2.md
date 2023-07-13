@@ -1,4 +1,4 @@
-Chapter 2: Understanding the Power of Cycles: Strategies for Incorporating Cycle Thinking into Goal-Setting and Planning
+Strategies for Incorporating Cycle Thinking into Goal-Setting and Planning
 ========================================================================================================================
 
 Incorporating cycle thinking into goal-setting and planning is essential to achieving consistent improvement. In this chapter, we will discuss strategies for incorporating cycle thinking into the process of setting performance goals and developing improvement plans.

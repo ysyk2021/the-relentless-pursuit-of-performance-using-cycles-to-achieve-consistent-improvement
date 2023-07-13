@@ -1,4 +1,4 @@
-Chapter 7: Measuring Progress and Adjusting Course: Importance of Measuring Progress and Adjusting Course as Needed
+Importance of Measuring Progress and Adjusting Course as Needed
 ===================================================================================================================
 
 Measuring progress and adjusting course is essential to achieving consistent improvement. In this chapter, we will discuss the importance of measuring progress and adjusting course as needed, and provide strategies for doing so effectively.

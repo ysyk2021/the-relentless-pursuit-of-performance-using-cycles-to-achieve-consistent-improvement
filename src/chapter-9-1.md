@@ -1,4 +1,4 @@
-Chapter 9: Overcoming Barriers to Performance Improvement: Identifying Common Barriers to Performance Improvement and Strategies for Overcoming Them
+Identifying Common Barriers to Performance Improvement and Strategies for Overcoming Them
 ====================================================================================================================================================
 
 In this chapter, we'll discuss common barriers to performance improvement and strategies for overcoming them.

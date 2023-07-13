@@ -1,4 +1,4 @@
-Chapter 4: Setting Performance Goals: Importance of Setting Specific and Measurable Performance Goals
+Importance of Setting Specific and Measurable Performance Goals
 =====================================================================================================
 
 Setting specific and measurable performance goals is essential to achieving consistent improvement. In this chapter, we will discuss the importance of setting performance goals and techniques for creating effective goals.

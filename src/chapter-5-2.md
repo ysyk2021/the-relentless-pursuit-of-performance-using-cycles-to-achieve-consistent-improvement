@@ -1,4 +1,4 @@
-Chapter 5: Developing Improvement Plans: Techniques for Breaking Down Larger Goals into Smaller, Achievable Tasks
+Techniques for Breaking Down Larger Goals into Smaller, Achievable Tasks
 =================================================================================================================
 
 Developing improvement plans involves breaking down larger goals into smaller, achievable tasks. In this chapter, we will discuss techniques for developing improvement plans that are focused, achievable, and aligned with overall business objectives.

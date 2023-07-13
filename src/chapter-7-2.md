@@ -1,4 +1,4 @@
-Chapter 7: Measuring Progress and Adjusting Course: Tips for Establishing Metrics and Tracking Progress Towards Performance Goals
+Tips for Establishing Metrics and Tracking Progress Towards Performance Goals
 =================================================================================================================================
 
 Measuring progress and adjusting course is essential to achieving consistent improvement. In this chapter, we will discuss tips for establishing metrics and tracking progress towards performance goals.

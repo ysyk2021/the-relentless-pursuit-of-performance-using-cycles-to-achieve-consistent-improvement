@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Defining the relentless pursuit of performance and its benefits](chapter-1-1.md)
   - [Overview of the essential techniques for using cycles to achieve consistent improvement](chapter-1-2.md)
 - [Chapter 2: Understanding the Power of Cycles](chapter-2.md)
@@ -28,8 +27,5 @@
 - [Chapter 9: Overcoming Barriers to Performance Improvement](chapter-9.md)
   - [Identifying common barriers to performance improvement and strategies for overcoming them](chapter-9-1.md)
   - [Techniques for staying motivated and focused on performance improvement goals](chapter-9-2.md)
-- [Chapter 10: Conclusion](chapter-10.md)
-  - [Recap of strategies for achieving consistent performance improvement through cycle-based thinking](chapter-10-1.md)
-  - [Encouragement to continue pursuing the relentless pursuit of performance](chapter-10-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

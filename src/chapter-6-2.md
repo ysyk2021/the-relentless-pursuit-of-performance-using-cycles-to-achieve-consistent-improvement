@@ -1,4 +1,4 @@
-Chapter 6: Implementing Improvement Plans: Techniques for Prioritizing and Implementing Improvement Plans Effectively
+Techniques for Prioritizing and Implementing Improvement Plans Effectively
 =====================================================================================================================
 
 Achieving consistent improvement requires more than just identifying areas for improvement. It also requires effective implementation of improvement plans. In this chapter, we will discuss techniques for prioritizing and implementing improvement plans effectively.

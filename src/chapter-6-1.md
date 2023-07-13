@@ -1,4 +1,4 @@
-Chapter 6: Implementing Improvement Plans: Role of Implementation in Achieving Consistent Improvement
+Role of Implementation in Achieving Consistent Improvement
 =====================================================================================================
 
 Effective implementation is essential to achieving consistent improvement. In this chapter, we will discuss the role of implementation in achieving consistent improvement and techniques for implementing improvement plans effectively.
