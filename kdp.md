@@ -8,7 +8,6 @@ The book covers techniques for defining clear objectives, identifying key perfor
 
 Whether you are an experienced entrepreneur or just starting out, "The Relentless Pursuit of Performance" can help you optimize your business performance, achieve your desired outcomes, and stay ahead of the competition. With its easy-to-follow framework and practical strategies, this guidebook is an essential resource for any entrepreneur who is committed to achieving success through continuous improvement.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
