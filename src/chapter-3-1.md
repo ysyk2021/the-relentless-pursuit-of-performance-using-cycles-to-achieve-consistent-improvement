@@ -3,11 +3,6 @@ Techniques for Identifying and Tracking Performance Metrics
 
 Identifying performance metrics is essential to achieving consistent improvement. In this chapter, we will discuss techniques for identifying and tracking performance metrics.
 
-The Importance of Identifying Performance Metrics
--------------------------------------------------
-
-Identifying performance metrics involves selecting the most important metrics for measuring business performance and tracking progress toward achieving desired outcomes. By identifying performance metrics, entrepreneurs can gain valuable insights into their business operations, customer behavior, and other factors that impact performance. This approach can help entrepreneurs make data-driven decisions about how to optimize their performance and achieve their goals.
-
 Techniques for Identifying Performance Metrics
 ----------------------------------------------
 
