@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Defining the Relentless Pursuit of Performance and Its Benefits
 ---------------------------------------------------------------

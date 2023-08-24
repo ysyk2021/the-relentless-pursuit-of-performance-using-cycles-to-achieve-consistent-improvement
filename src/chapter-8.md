@@ -1,5 +1,3 @@
-Chapter 8: Building a Culture of Performance Improvement
-========================================================
 
 Role of Culture in Achieving Consistent Performance Improvement
 ---------------------------------------------------------------

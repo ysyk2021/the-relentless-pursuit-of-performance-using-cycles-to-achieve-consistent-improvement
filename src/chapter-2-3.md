@@ -1,4 +1,3 @@
-# Applying Cycle Thinking Strategies in Your Business
 
 In this chapter, we will explore the application of cycle thinking strategies in your business to achieve consistent improvement. By embracing the concept of cycles, you can optimize processes, drive innovation, and ensure continuous growth in your relentless pursuit of performance.
 

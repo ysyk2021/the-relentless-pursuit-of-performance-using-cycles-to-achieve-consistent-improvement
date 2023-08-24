@@ -1,5 +1,3 @@
-Chapter 4: Setting Performance Goals
-====================================
 
 Setting performance goals is essential to achieving consistent improvement. In this chapter, we will discuss the importance of setting specific and measurable performance goals and provide strategies for setting achievable goals based on performance metrics.
 

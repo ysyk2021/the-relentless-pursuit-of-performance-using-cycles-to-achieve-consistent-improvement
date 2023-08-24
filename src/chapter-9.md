@@ -1,5 +1,3 @@
-Chapter 9: Overcoming Barriers to Performance Improvement
-=========================================================
 
 Overcoming barriers to performance improvement is essential to achieving consistent improvement. In this chapter, we will discuss techniques for identifying common barriers to performance improvement and strategies for overcoming them. We will also explore techniques for staying motivated and focused on performance improvement goals.
 

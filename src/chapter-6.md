@@ -1,5 +1,3 @@
-Chapter 6: Implementing Improvement Plans
-=========================================
 
 Implementing improvement plans is essential to achieving consistent improvement. In this chapter, we will discuss the role of implementation in achieving consistent improvement and provide techniques for prioritizing and implementing improvement plans effectively.
 

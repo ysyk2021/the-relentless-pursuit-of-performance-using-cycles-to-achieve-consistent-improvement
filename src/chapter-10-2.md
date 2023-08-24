@@ -1,5 +1,3 @@
-Encouragement to Continue Pursuing the Relentless Pursuit of Performance
-================================================================================================
 
 Achieving sustained success over time requires a relentless pursuit of performance. By using cycles to achieve consistent improvement, organizations can stay ahead of their competitors and achieve long-term success. However, this is not a one-time event. It requires a commitment to continuous improvement and a willingness to adapt to changing circumstances.
 

@@ -1,5 +1,3 @@
-Chapter 7: Measuring Progress and Adjusting Course
-==================================================
 
 Importance of Measuring Progress and Adjusting Course as Needed
 ---------------------------------------------------------------

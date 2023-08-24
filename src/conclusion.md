@@ -1,4 +1,3 @@
-# Conclusion
 
 Recap of Strategies for Achieving Consistent Performance Improvement through Cycle-Based Thinking
 -------------------------------------------------------------------------------------------------

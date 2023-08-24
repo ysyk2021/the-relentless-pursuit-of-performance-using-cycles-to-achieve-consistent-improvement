@@ -1,5 +1,3 @@
-Chapter 5: Developing Improvement Plans
-=======================================
 
 Importance of Developing Improvement Plans to Achieve Performance Goals
 -----------------------------------------------------------------------

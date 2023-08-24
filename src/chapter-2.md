@@ -1,5 +1,3 @@
-Chapter 2: Understanding the Power of Cycles
-============================================
 
 Understanding the power of cycles is essential to achieving consistent improvement. In this chapter, we will discuss techniques for understanding the concept of cycles in performance improvement, as well as strategies for incorporating cycle thinking into goal-setting and planning.
 

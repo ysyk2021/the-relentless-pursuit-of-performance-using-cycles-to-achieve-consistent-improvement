@@ -1,5 +1,3 @@
-Strategies for Building a Culture that Values Continuous Improvement and Accountability
-=================================================================================================================================================
 
 Building a culture of performance improvement is essential to achieving consistent improvement in business performance. A culture that values continuous improvement fosters an environment where employees are committed to achieving their goals and are held accountable for their work. In this chapter, we will discuss strategies for building a culture that values continuous improvement and accountability.
 

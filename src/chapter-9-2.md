@@ -1,5 +1,3 @@
-Techniques for Staying Motivated and Focused on Performance Improvement Goals
-========================================================================================================================================
 
 Overcoming barriers to performance improvement requires a dedication to continuous improvement and a willingness to adapt. However, staying motivated and focused on performance improvement goals can be challenging. In this chapter, we will discuss techniques for staying motivated and focused on performance improvement goals.
 

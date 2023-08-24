@@ -1,5 +1,3 @@
-Chapter 3: Identifying Performance Metrics
-==========================================
 
 Identifying performance metrics is essential to achieving consistent improvement. In this chapter, we will discuss techniques for identifying and tracking performance metrics, as well as tips for using data analysis and other tools to identify areas for improvement.
 
