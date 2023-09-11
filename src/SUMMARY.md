@@ -35,3 +35,4 @@
   - [Applying Strategies for Overcoming Barriers to Performance Improvement in Your Business](chapter-9-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

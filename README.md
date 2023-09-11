@@ -1,3 +1,6 @@
+# The Relentless Pursuit of Performance: Using Cycles to Achieve Consistent Improvement
+
+Book Link: [https://zhengpublishing.com/the-relentless-pursuit-of-performance-using-cycles-to-achieve-consistent-improvement/](https://zhengpublishing.com/the-relentless-pursuit-of-performance-using-cycles-to-achieve-consistent-improvement/)
 
 "The Relentless Pursuit of Performance: Using Cycles to Achieve Consistent Improvement" is a guidebook for entrepreneurs who are committed to achieving consistent performance improvement in their businesses. The book provides a framework for using cycle-based thinking to break larger goals into smaller, more manageable steps, regularly assessing progress towards those goals, and making adjustments as needed. By following this approach, entrepreneurs can optimize their performance, improve customer satisfaction, and drive revenue growth.
 
